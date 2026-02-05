@@ -17,7 +17,7 @@ A beautiful, modern web application for converting images to PDF and PDF to imag
 
 ## 🌐 Live Demo
 
-**Try it now:** [https://YOUR_USERNAME.github.io/image-pdf-converter/](https://YOUR_USERNAME.github.io/image-pdf-converter/)
+**Try it now:** [https://thamaraiselvan255.github.io/image-pdf-converter/](https://thamaraiselvan255.github.io/image-pdf-converter/)
 
 > 🔥 **No signup, no limits, completely free!**
 
@@ -77,13 +77,6 @@ Unlike most converters that upload your files to a server, this tool:
 - ✅ Windows, Mac, Linux
 - ✅ Desktop & Mobile
 - ✅ Any device with a modern browser
-
-## 🚀 Deploy Your Own
-
-1. Fork this repository
-2. Go to Settings → Pages
-3. Select `main` branch as source
-4. Your site will be live at `https://YOUR_USERNAME.github.io/image-pdf-converter/`
 
 ## 📄 License
 
